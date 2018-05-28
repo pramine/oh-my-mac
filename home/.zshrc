@@ -93,3 +93,10 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+alias govs="cd /Users/$USER/Documents/VSProjects"
+alias ssh="ssh -F ~/Dropbox/mac-backup/ssh/config"
+
+
+export WORKON_HOME=$HOME/Documents/virtualenv
+source /usr/local/bin/virtualenvwrapper.sh

@@ -13,6 +13,7 @@
 * [TeamViewer](https://www.teamviewer.com/en/)
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
 * [DropBox](https://www.dropbox.com/)
+* [Audacity](https://www.audacityteam.org/)
 
 ## Configuration
 
